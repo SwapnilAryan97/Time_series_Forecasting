@@ -4,3 +4,7 @@
 * For grocery stores, more accurate forecasting can decrease food waste related to overstocking and improve customer satisfaction.
 * An indepth anaysis of datasets using plotly, seaborn and matplotlib to understand the trend and projecting an analysis of the correlation between every decision.
 * Using our analysis, small scaled businesses can be helped by helping them understand trends and make better deals and offers on particular days that could at yeild them better profits and higher customer satisfaction.
+
+![](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/yearly_transactions.png?raw=true)
+![](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/daily_transaction.png?raw=true)
+![](https://github.com/SwapnilAryan97/Time_series_Forecasting/blob/main/daily_oil_price.png?raw=true)
